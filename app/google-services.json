@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747340042769",
+    "project_id": "group-3-eradze",
+    "storage_bucket": "group-3-eradze.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747340042769:android:8d0b71bd3bbf72665a57b0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747340042769-l5sfava5rq2p9sd75acbhc90bl2umu9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT17dUvtIPLs_jRJ_GKoQEJKhvdlugDNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747340042769-l5sfava5rq2p9sd75acbhc90bl2umu9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
